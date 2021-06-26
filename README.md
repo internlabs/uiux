@@ -1,4 +1,4 @@
-##      Session on UX DESIGNING 
+##      UX Research: Session One
 ![](https://github.com/kishan-0904/UI-UX/blob/d3773d7d9370eff482d0c42546cd569c6e7bd50b/UI-UX.gif)
 
 *To Watch it over Youtube [click Here][video]
