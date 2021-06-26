@@ -19,9 +19,9 @@ To access the Presentation(ppt) [click here][ppt]*
 
 **Intern Labs Founder (Khushal Jhalani) Social Media Handles** <br>
 [<img align = "auto" width = "36px" src="https://github.com/kishan-0904/Self-Programs/blob/main/fb.png" />][fb]
-[<img align = "auto" width = "36px" src="https://github.com/kishan-0904/Self-Programs/blob/main/linkedin.png" />][linkedin]
-[<img align = "auto" width = "36px" src="https://github.com/kishan-0904/Self-Programs/blob/main/insta.jpg" />][insta]
-[<img align = "auto" width = "36px" src="https://github.com/kishan-0904/Self-Programs/blob/main/twitter.png" />][twitter]
+ [<img align = "auto" width = "36px" src="https://github.com/kishan-0904/Self-Programs/blob/main/linkedin.png" />][linkedin]
+ [<img align = "auto" width = "36px" src="https://github.com/kishan-0904/Self-Programs/blob/main/insta.jpg" />][insta]
+ [<img align = "auto" width = "36px" src="https://github.com/kishan-0904/Self-Programs/blob/main/twitter.png" />][twitter]
 
 
 # Resources
